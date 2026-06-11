@@ -1,0 +1,1 @@
+https://github.com/Phrungck/oaqjp-final-project-emb-ai/blob/main/final_project/EmotionDetection/__init__.py
